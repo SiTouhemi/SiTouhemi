@@ -121,11 +121,6 @@ Currently focused on:
 
 </div>
 
-<br>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=SiTouhemi&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
-</div>
 
 <br>
 
