@@ -26,7 +26,7 @@ class Pentester:
         self.name = "Ahmed Selim Touhemi"
         self.role = "Future Penetration Tester"
         self.location = "Tunisia"
-        self.focus = ["Red Teaming", "Web Security", "CTF Challenges"]
+        self.focus = ["Red Teaming", "Web Security", "Web Developement"]
         self.passion = "Breaking things to learn how to build them securely"
     
     def current_mission(self):
@@ -75,12 +75,12 @@ Currently focused on:
 ### Web Development
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
 ### Security Focus
 ![Web Security](https://img.shields.io/badge/Web%20Security-FF0000?style=for-the-badge&logo=security&logoColor=white)
-![CTF](https://img.shields.io/badge/CTF%20Player-00FF00?style=for-the-badge&logo=hackthebox&logoColor=white)
+![Web Developer](https://img.shields.io/badge/Web%20Developer-FF6F61?style=for-the-badge&logo=webflow&logoColor=white)
 ![Pentesting](https://img.shields.io/badge/Penetration%20Testing-8B0000?style=for-the-badge&logo=kalilinux&logoColor=white)
 
 </div>
@@ -106,41 +106,8 @@ Currently focused on:
 
 🔴 **Vulnerable Web Applications** - Building intentionally vulnerable labs to understand exploitation techniques  
 🔴 **CTF Write-ups** - Documenting challenge solutions and methodologies  
-🔴 **Security Tools** - Developing custom scripts for reconnaissance and automation  
+🔴 **Web developemtn** - Building and maintaning responsive , fast and secure websites
 🔴 **Learning Labs** - Hands-on practice with various web security concepts  
-
-<br>
-
-<div align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-</div>
-
-<br>
-
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> GitHub Analytics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SiTouhemi&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00ffff&icon_color=00ffff&text_color=c9d1d9"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SiTouhemi&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ffff&text_color=c9d1d9"/>
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SiTouhemi&theme=radical&hide_border=true&background=0d1117&stroke=00ffff&ring=00ffff&fire=ff0000&currStreakLabel=00ffff" alt="GitHub Streak"/>
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SiTouhemi&theme=react-dark&hide_border=true&area=true&bg_color=0d1117&color=00ffff&line=00ffff&point=ff0000" width="100%"/>
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-</div>
 
 <br>
 
